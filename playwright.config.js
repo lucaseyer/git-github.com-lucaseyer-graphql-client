@@ -7,6 +7,4 @@ module.exports = {
     viewport: { width: 1280, height: 720 },
     ignoreHTTPSErrors: true,
   },
-  // globalSetup: require.resolve('./tests/global-setup'),
-  // globalTeardown: require.resolve('./tests/global-teardown'),
 };
