@@ -1,6 +1,3 @@
-
-GitHub Copilot: # GraphQL Client Example
-
 This project demonstrates how to use a GraphQL client to perform queries and mutations on a GraphQL endpoint. The project is written in JavaScript and uses the `dotenv` library to manage environment variables.
 
 ## Prerequisites
